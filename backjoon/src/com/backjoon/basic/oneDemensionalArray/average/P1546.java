@@ -3,6 +3,9 @@ package com.backjoon.basic.oneDemensionalArray.average;
 import java.util.Arrays;
 import java.util.Scanner;
 
+/**
+ * TODO NumberFormatException이 왜나지...?
+ */
 public class P1546 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
